@@ -47,3 +47,25 @@ Here's a list of github repos and tools that I believe are awesome and should be
 ### CheatSheets
 1. [Android CheatSheet & Mindmap - six2dez](https://github.com/six2dez/pentest-book/blob/master/mobile/android.md)
 2. [Mobile Application Penetration Testing Cheatsheet - tanprathan](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics. 
+
+### Vulnerable Labs
+1. [Buggyapp](https://github.com/rahulkadavil/buggyapp) - Android - Buggyapp is an vulnerable android application. This app can be used by pentesters, security researchers to practice Android application pentesting. This is build for beginners to learn basics about Android application pentesting 
+
+### Active Directory
+1. [AD Pentesting Notes](https://github.com/nirajkharel/AD-Pentesting-Notes)
+2. [Bad Blood](https://github.com/davidprowe/BadBlood) - BadBlood by Secframe fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world.
+
+### Similar Projects
+1. [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things 
+2. [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security) - A curated list of Android Security materials and resources For Pentesters and Bug Hunters
+3. [dn0m1n8tor/AndroidPentest101](https://github.com/dn0m1n8tor/AndroidPentest101) - The motive to build this repo is to help beginner to start learn Android Pentesting by providing a roadmap. 
+4. [tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing) - A curated list of awesome reversing resources 
+5. [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools 
+
+
+CONNECT WITH ME ON LINKEDIN;
+https://www.linkedin.com/in/godfrey-brew-ntiamoah
+
+
+HAPPY LEARNING 🙂,
+GODFREY BREW NTIAMOAH
