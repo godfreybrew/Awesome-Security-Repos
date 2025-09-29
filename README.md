@@ -27,3 +27,23 @@ Here's a list of github repos and tools that I believe are awesome and should be
 5. [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
 6. [epinna/tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool 
 
+### Recon Frameworks
+1. [reconFTW](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+2. [rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. 
+
+### Misc - Bug Bounty Hunting | Penetration Testing
+1. [Inventory](https://github.com/trickest/inventory) - Asset inventory on public bug bounty programs. 
+2. [HowToHunt](https://github.com/KathanP19/HowToHunt) - Tutorials and Things to Do while Hunting Vulnerability.
+3. [Keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid. 
+4. [TruffleHog](https://github.com/trufflesecurity/truffleHog) - Find credentials all over the place on Github Repos
+5. [Awesome Grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
+6. [ streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid. 
+7. [lobuhi/byp4xx](https://github.com/lobuhi/byp4xx) - Python script for HTTP 40X responses bypassing. Features: Verb tampering, headers, #bugbountytips, User-Agents, extensions, default credentials and fuzzing. 
+
+### Checklists
+1. [Web Application Pentest Checklist](https://github.com/e11i0t4lders0n/Web-Application-Pentest-Checklist)
+2. [OWASP/ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard 
+
+### CheatSheets
+1. [Android CheatSheet & Mindmap - six2dez](https://github.com/six2dez/pentest-book/blob/master/mobile/android.md)
+2. [Mobile Application Penetration Testing Cheatsheet - tanprathan](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics. 
