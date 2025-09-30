@@ -90,6 +90,25 @@ https://github.com/kubereboot/kured – Kubernetes reboot daemon for node patchi
 
 https://github.com/kubescape/kubescape – Kubernetes security posture management and scanning.
 
+### Hacking Tools
+https://github.com/samet-g/tornado – Reverse shell over Tor hidden services without port forwarding.
+
+https://github.com/hakluke/hakoriginfinder – Discover origin hosts behind reverse proxies to bypass WAFs.
+
+https://github.com/machinexa2/Nemesis – URL scanner for recon, vulnerabilities, and secrets.
+
+https://github.com/ticarpi/jwt_tool – Toolkit for testing, tweaking, and cracking JWTs.
+
+https://github.com/fullhunt/log4j-scan – Automated scanner for Log4Shell CVE-2021-44228.
+
+https://github.com/epinna/tplmap – Server-side template injection detection and exploitation.
+
+https://github.com/rapid7/metasploit-framework – Exploitation framework with extensive modules and automation.
+
+https://github.com/nmap/nmap – Network scanner with NSE scripting ecosystem.
+
+https://github.com/wireshark/wireshark – Protocol analyzer for packet capture and deep inspection.
+
 
 CONNECT WITH ME ON LINKEDIN;
 https://www.linkedin.com/in/godfrey-brew-ntiamoah
