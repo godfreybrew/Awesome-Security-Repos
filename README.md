@@ -62,6 +62,34 @@ Here's a list of github repos and tools that I believe are awesome and should be
 4. [tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing) - A curated list of awesome reversing resources 
 5. [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools 
 
+### Cloud Security
+
+https://github.com/prowler-cloud/prowler – AWS/Azure/GCP/Kubernetes security assessments, compliance, monitoring, and dashboards.
+
+https://github.com/carlospolop/PurplePanda – Cross-cloud and intra-cloud privilege escalation path identification with Neo4j graphs.
+
+https://github.com/sa7mon/S3Scanner – Scan for open S3 buckets and dump contents.
+
+https://github.com/nccgroup/ScoutSuite – Multi-cloud security auditing and posture assessment.
+
+https://github.com/aquasecurity/cloudsploit – Cloud misconfiguration checks for AWS/Azure/GCP.
+
+https://github.com/trailofbits/alto – Cloud attack path analysis and visualizations.
+
+https://github.com/aquasecurity/tfsec – Static analysis for Terraform to catch misconfigurations.
+
+### Containers and IaC Security
+
+https://github.com/aquasecurity/trivy – Container, SBOM, IaC, and cloud misconfiguration scanning.
+
+https://github.com/Checkmarx/kics – IaC static analysis for Terraform, Kubernetes, and more.
+
+https://github.com/docker/cli + https://github.com/docker/docker-bench-security – Docker hardening checks and security benchmarks.
+
+https://github.com/kubereboot/kured – Kubernetes reboot daemon for node patching.
+
+https://github.com/kubescape/kubescape – Kubernetes security posture management and scanning.
+
 
 CONNECT WITH ME ON LINKEDIN;
 https://www.linkedin.com/in/godfrey-brew-ntiamoah
