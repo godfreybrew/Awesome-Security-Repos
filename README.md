@@ -109,6 +109,25 @@ https://github.com/nmap/nmap – Network scanner with NSE scripting ecosystem.
 
 https://github.com/wireshark/wireshark – Protocol analyzer for packet capture and deep inspection.
 
+### Mobile Security
+https://github.com/MobSF/Mobile-Security-Framework-MobSF – Mobile SAST/DAST for Android/iOS with APK/IPA/source analysis.
+
+https://github.com/androguard/androguard – Reverse engineering and analysis suite for Android apps.
+
+https://github.com/sensepost/objection – Runtime mobile exploration powered by Frida.
+
+### Wordlists and Payloads
+https://github.com/swisskyrepo/PayloadsAllTheThings – Payloads and bypass techniques for web security and CTFs.
+
+https://github.com/six2dez/OneListForAll – Comprehensive wordlist optimized for web fuzzing.
+
+https://github.com/danielmiessler/SecLists – Standard wordlist collection for discovery and fuzzing.
+
+Recon and OSINT Extras
+https://github.com/projectdiscovery/naabu – Fast and reliable port scanner.
+
+https://github.com/tomnomnom/httprobe – Probe domains for working HTTP/HTTPS services.
+
 
 CONNECT WITH ME ON LINKEDIN;
 https://www.linkedin.com/in/godfrey-brew-ntiamoah
