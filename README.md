@@ -128,6 +128,21 @@ https://github.com/projectdiscovery/naabu – Fast and reliable port scanner.
 
 https://github.com/tomnomnom/httprobe – Probe domains for working HTTP/HTTPS services.
 
+### Curated OSINT search engines meta-list – Add a single pointer to avoid bloat while covering breadth.
+
+### Misc – Bug Bounty Hunting | Penetration Testing
+https://github.com/trickest/inventory – Asset inventory on public bug bounty programs.
+
+https://github.com/KathanP19/HowToHunt – Tutorials and workflows for vulnerability hunting.
+
+https://github.com/streaak/keyhacks – Quick validation methods for leaked API keys.
+
+https://github.com/cipher387/awesome-grep – GREP modifications and alternatives for many use cases.
+
+https://github.com/lobuhi/byp4xx – Techniques to bypass HTTP 40X responses.
+
+https://github.com/vavkamil/awesome-bugbounty-tools – Curated meta-list of bug bounty tools.
+
 
 CONNECT WITH ME ON LINKEDIN;
 https://www.linkedin.com/in/godfrey-brew-ntiamoah
