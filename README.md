@@ -143,6 +143,22 @@ https://github.com/lobuhi/byp4xx – Techniques to bypass HTTP 40X responses.
 
 https://github.com/vavkamil/awesome-bugbounty-tools – Curated meta-list of bug bounty tools.
 
+### Checklists
+https://github.com/e11i0t4lders0n/Web-Application-Pentest-Checklist – Practical checklist for web app testing.
+
+https://github.com/OWASP/ASVS – Application Security Verification Standard.
+
+https://github.com/OWASP/wstg – OWASP Web Security Testing Guide v5.
+
+### Vulnerable Labs
+https://github.com/rahulkadavil/buggyapp – Beginner-friendly vulnerable Android application.
+
+https://github.com/juice-shop/juice-shop – Intentionally vulnerable web app for training.
+
+https://github.com/bkimminich/juice-shop-ctf – CTF setup for OWASP Juice Shop.
+
+https://www.vulnhub.com/ – Downloadable vulnerable VMs for hands-on labs.
+
 
 CONNECT WITH ME ON LINKEDIN;
 https://www.linkedin.com/in/godfrey-brew-ntiamoah
