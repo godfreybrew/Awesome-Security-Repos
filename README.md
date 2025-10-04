@@ -168,6 +168,15 @@ https://github.com/BloodHoundAD/BloodHound – Graph-based AD attack path analys
 
 https://github.com/dirkjanm/PrivExchange – NTLM relay attack toolkit for Exchange/AD.
 
+### Platforms and Learning
+https://www.hackerone.com/bug-bounty-programs – Discover active bug bounty programs.
+
+https://www.bugcrowd.com/bug-bounty-list/ – Bugcrowd programs and VDPs.
+
+https://www.intigriti.com/ – European bug bounty platform.
+
+https://www.yeswehack.com/ – Global bug bounty platform.
+
 CONNECT WITH ME ON LINKEDIN;
 https://www.linkedin.com/in/godfrey-brew-ntiamoah
 
