@@ -159,6 +159,14 @@ https://github.com/bkimminich/juice-shop-ctf – CTF setup for OWASP Juice Shop.
 
 https://www.vulnhub.com/ – Downloadable vulnerable VMs for hands-on labs.
 
+### Active Directory
+https://github.com/nirajkharel/AD-Pentesting-Notes – Study notes and references for AD pentesting.
+
+https://github.com/davidprowe/BadBlood – Populate AD with realistic objects for practice.
+
+https://github.com/BloodHoundAD/BloodHound – Graph-based AD attack path analysis.
+
+https://github.com/dirkjanm/PrivExchange – NTLM relay attack toolkit for Exchange/AD.
 
 CONNECT WITH ME ON LINKEDIN;
 https://www.linkedin.com/in/godfrey-brew-ntiamoah
